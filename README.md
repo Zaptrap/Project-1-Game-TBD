@@ -9,6 +9,8 @@
 --> 
 
 ## About
+The Name of the game is Pick-N-Choose
+
 
 ## Getting Started
 
