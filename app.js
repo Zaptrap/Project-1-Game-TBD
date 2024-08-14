@@ -65,7 +65,7 @@ function checkCup(event) {
         }
     } else {
         // Show that there's no ball
-        cupImg.src = "https://via.placeholder.com/200x250?text=No+Ball"; // Temporary image to indicate no ball
+        cupImg.src = "https://cdn.pixabay.com/photo/2012/04/12/20/12/x-30465_1280.png"; // Temporary image to indicate no ball
         
         // After a brief delay, revert to original cup image
         setTimeout(() => {

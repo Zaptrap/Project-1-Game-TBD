@@ -1,5 +1,12 @@
 body {
     background-color: rgb(86, 209, 158);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#gameName {
+    display: flex;
+    justify-content: center;
+    font-size: xxx-large;
 }
 
 #gameDisplay {
@@ -23,6 +30,9 @@ button {
     margin: 20px auto;
     padding: 10px 20px;
     font-size: 16px;
+    border-radius: 15px;
+    border-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #message {
